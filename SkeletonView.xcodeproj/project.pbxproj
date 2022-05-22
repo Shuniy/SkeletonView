@@ -12,6 +12,7 @@
 		C32CD5A927D5D758003C0E33 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32CD5A827D5D758003C0E33 /* ContentView.swift */; };
 		C32CD5AB27D5D75B003C0E33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C32CD5AA27D5D75B003C0E33 /* Assets.xcassets */; };
 		C32CD5AE27D5D75B003C0E33 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C32CD5AD27D5D75B003C0E33 /* Preview Assets.xcassets */; };
+		C3A23BA5283A15EC00A2A08D /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A23BA4283A15EC00A2A08D /* View+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C32CD5A827D5D758003C0E33 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C32CD5AA27D5D75B003C0E33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C32CD5AD27D5D75B003C0E33 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C3A23BA4283A15EC00A2A08D /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				C32CD5A627D5D758003C0E33 /* SkeletonViewApp.swift */,
 				C32CD5A827D5D758003C0E33 /* ContentView.swift */,
 				C31FB04427D74FD300262609 /* Shimmer.swift */,
+				C3A23BA4283A15EC00A2A08D /* View+Extension.swift */,
 				C32CD5AA27D5D75B003C0E33 /* Assets.xcassets */,
 				C32CD5AC27D5D75B003C0E33 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				C32CD5A927D5D758003C0E33 /* ContentView.swift in Sources */,
 				C31FB04527D74FD300262609 /* Shimmer.swift in Sources */,
+				C3A23BA5283A15EC00A2A08D /* View+Extension.swift in Sources */,
 				C32CD5A727D5D758003C0E33 /* SkeletonViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
